@@ -1,11 +1,11 @@
 # IoT-Hacking-Kit
 IoT Hacking Kit Details
 
-    CSR4.0
-    NRF52840
-    BusPirate
-    UART Cable
-    Salaelogic 8 Pin 
-    STLink v2
-    ESP32
-    RPI-Zero
+    CSR4.0            - Bluetooth Adapter
+    NRF52840          - BLE Dongle , Zigbee , Thread , 
+    BusPirate         - Hardware Debugger
+    UART Cable        - UART cable 
+    Salaelogic 8 Pin  - Logic analyzer
+    STLink v2         - SWD Pin Connector
+    ESP32             - MCU
+    RPI-Zero          - MCU
