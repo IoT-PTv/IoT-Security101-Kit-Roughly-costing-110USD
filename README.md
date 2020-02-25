@@ -1,7 +1,7 @@
 # IoT-Hacking-Kit
 IoT Hacking Kit Details
 
-    $CSR4.0
+    CSR4.0
     NRF52840
     BusPirate
     UART Cable
