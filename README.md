@@ -1,4 +1,4 @@
-# IoT-Hacking-Kit
+# IoT-Security101-Kit
 IoT Hacking Kit Details
 
     CSR4.0            - Bluetooth Adapter
