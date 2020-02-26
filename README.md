@@ -10,4 +10,4 @@ IoT Hacking Kit Details
     ESP32             - MCU
     RPI-Zero          - MCU
     IoTSecurity       - Debugger
-    IoTSecurity101    - Lab
+    IoTSecurity101    - Hardware Lab
