@@ -9,5 +9,5 @@ IoT Hacking Kit Details
     STLink v2         - SWD Pin Connector
     ESP32             - MCU
     RPI-Zero          - MCU
-    IoTSecurity       - Debugger
-    IoTSecurity101    - Hardware Lab
+    IoTSecurity       - Debugger (under development)
+    IoTSecurity101    - Hardware Lab (under development)
