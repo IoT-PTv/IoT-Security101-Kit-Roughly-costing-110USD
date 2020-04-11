@@ -10,4 +10,4 @@ IoT Hacking Kit Details
     ESP32             - MCU
     RPI-Zero          - MCU
     IoTSecurity       - Debugger (under development)
-    FicusIoT    - Hardware Lab (under development)
+    IoT-PT Core Board    - Hardware Lab (under development)
