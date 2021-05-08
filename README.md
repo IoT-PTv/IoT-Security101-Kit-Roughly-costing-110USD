@@ -1,7 +1,7 @@
 # IoT-Security101-Kit
 IoT Hacking Kit Details
 
-    CSR4.0            - Bluetooth Adapter
+    CSR4.0            - Bluetooth Adapter (for pentesting bluetooth 4.0) 
     NRF52840          - BLE Dongle , Zigbee , Thread , 
     BusPirate         - Hardware Debugger
     UART Cable        - UART cable 
