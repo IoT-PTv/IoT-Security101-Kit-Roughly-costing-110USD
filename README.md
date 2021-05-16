@@ -1,4 +1,4 @@
-# IoT-Security101-Kit
+# IoT-Security101-Kit - Roughly costing 8000+ INR
 IoT Hacking Kit Details
 
   - CSR4.0            - Bluetooth Adapter (for pentesting bluetooth 4.0) - [to buy](https://www.amazon.in/PRODUCTS-Bluetooth-Receiver-Wireless-Transmitter/dp/B07MLXDBKQ)
