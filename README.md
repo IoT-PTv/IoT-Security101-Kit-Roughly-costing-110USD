@@ -3,7 +3,7 @@ IoT Hacking Kit Details
 
   - **CSR4.0**           - Bluetooth Adapter (for pentesting bluetooth 4.0) - [to buy](https://amzn.to/2SYWhIg)
   - **NRF52840**         - BLE5.0 Dongle , Zigbee , Thread pentesting purpose  - [to buy](https://in.element14.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521)
-  - **BusPirate**         - Hardware Debugger (I2C,SPI,UART,1-wire,JTAG)    - [to buy](https://www.evelta.com/bus-pirate-v4-seeed-studio/)
+  - **BusPirate**         - Hardware Debugger (I2C,SPI,UART,1-wire,JTAG)    - [to buy](https://www.tanotis.com/products/sparkfun-bus-pirate-v3-6a)
   - **UART Cable**        - UART cable (FT232RL)  - [to buy](https://amzn.to/3v0USPu)
   - **Logic analyzer 8 Pin**  - Logic analyzer  - [to buy](https://amzn.to/3yhs47s)
   - **STLink v2**         - SWD Pin Connector  - [to buy](https://amzn.to/3uXm8hI)
