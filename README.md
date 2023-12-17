@@ -13,4 +13,4 @@ IoT Hacking Kit Details
   - **IoT-PT Core Board**    - Hardware Lab (under development)
 
 
-Note : for **UART/JTAG/SPI/I2C**  - we can use [FT232H](https://amzn.to/3byjE1K) hardware debugger instead of the buspirate and UART CABLE
+Note : for **UART/JTAG/SPI/I2C**  - we can use [FT232H](https://www.adafruit.com/product/2264) hardware debugger instead of the buspirate and UART CABLE
