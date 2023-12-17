@@ -5,7 +5,7 @@ IoT Hacking Kit Details
   - **NRF52840**         - BLE5.0 Dongle , Zigbee , Thread pentesting purpose  - [to buy](https://in.element14.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521)
   - **BusPirate**         - Hardware Debugger (I2C,SPI,UART,1-wire,JTAG)    - [to buy](https://www.tanotis.com/products/sparkfun-bus-pirate-v3-6a)
   - **UART Cable**        - UART cable (FT232RL)  - [to buy](https://amzn.to/3v0USPu)
-  - **Logic analyzer 8 Pin**  - Logic analyzer  - [to buy](https://amzn.to/3yhs47s)
+  - **Logic analyzer 8 Pin**  - Logic analyzer  - [to buy](https://www.tanotis.com/products/sparkfun-usb-logic-analyzer-24mhz-8-channel?_pos=2&_sid=6a022df94&_ss=r)
   - **STLink v2**         - SWD Pin Connector  - [to buy](https://amzn.to/3uXm8hI)
   - **ESP32**             - MCU To develop embedded codes for wifi and bluetooth like testbed/offensive/defensive - [to buy](https://amzn.to/33RSRZW)
   - **RPI-Zero**          - MCU - good for the USB attacks use a usb adapter - [to buy](https://amzn.to/3hyDBcK)
