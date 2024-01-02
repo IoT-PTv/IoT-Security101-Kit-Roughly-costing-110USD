@@ -1,5 +1,5 @@
 | Component             | Description                                            | Buy Link                                                 |
-|-----------------------|--------------------------------------------------------|----------------------------------------------------------|
+|-----------------------|--------------------------------------------------|----------------------------------------------------------|
 | CSR4.0                | Bluetooth Adapter (for pentesting Bluetooth 4.0)     | [Buy Here](https://amzn.to/2SYWhIg)                    |
 | NRF52840              | BLE 5.0 Dongle, Zigbee, Thread pentesting purpose     | [Buy Here](https://in.element14.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521) |
 | BusPirate             | Hardware Debugger (I2C, SPI, UART, 1-wire, JTAG)     | [Buy Here](https://www.tanotis.com/products/sparkfun-bus-pirate-v3-6a) |
