@@ -1,14 +1,17 @@
-| Component             | Description                                            | Buy Link                                                 |
-|-----------------------|--------------------------------------------------|----------------------------------------------------------|
-| BTD400                | Bluetooth Adapter (for pentesting Bluetooth)     | [Buy Here](https://www.kinivo.com/products/kinivo-btd-400-bluetooth-4-0-usb-adapter-for-windows-10-8-7-vista)                    |
-| NRF52840              | BLE 5.0 Dongle, Zigbee, Thread pentesting purpose     | [Buy Here](https://in.element14.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521) |
-| BusPirate             | Hardware Debugger (I2C, SPI, UART, 1-wire, JTAG)     | [Buy Here](https://www.tanotis.com/products/sparkfun-bus-pirate-v3-6a) |
-| Logic Analyzer 8 Pin  | Logic analyzer                                        | [Buy Here](https://www.tanotis.com/products/sparkfun-usb-logic-analyzer-24mhz-8-channel?_pos=2&_sid=6a022df94&_ss=r) |
-| STLink v2             | SWD Pin Connector                                     | [Buy Here](https://amzn.to/3uXm8hI)                   |
+| Component             | Description                                            | Buy Link                                                                 |
+|-----------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
+| BTD400                | Bluetooth Adapter (for pentesting Bluetooth)           | [Buy Here](https://www.kinivo.com/products/kinivo-btd-400-bluetooth-4-0-usb-adapter-for-windows-10-8-7-vista) |
+| NRF52840              | BLE 5.0 Dongle, Zigbee, Thread pentesting purpose      | [Buy Here](https://in.element14.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521) |
+| BusPirate             | Hardware Debugger (I2C, SPI, UART, 1-wire, JTAG)       | [Buy Here](https://www.tanotis.com/products/sparkfun-bus-pirate-v3-6a)   |
+| Logic Analyzer 8 Pin  | Logic analyzer                                          | [Buy Here](https://www.tanotis.com/products/sparkfun-usb-logic-analyzer-24mhz-8-channel?_pos=2&_sid=6a022df94&_ss=r) |
+| STLink v2             | SWD Pin Connector                                       | [Buy Here](https://amzn.to/3uXm8hI)                                      |
 | ESP32                 | MCU for developing embedded codes for WiFi and Bluetooth, suitable for testbed/offensive/defensive purposes | [Buy Here](https://amzn.to/33RSRZW) |
-| RPI-Zero              | MCU - good for USB attacks, use a USB adapter         | [Buy Here](https://amzn.to/3hyDBcK)                   |
-| ICE-Bites           | Microprobing                       | [Check Here](https://github.com/IoTSecurity101/ICEBite)                                                      |
-| IoT-PT Core Board     | Hardware Lab (under development)                      | -                                                        |
+| RPI-Zero              | MCU - good for USB attacks, use a USB adapter           | [Buy Here](https://amzn.to/3hyDBcK)                                      |
+| ICE-Bite              | Microprobing                                           | [Check Here](https://github.com/IoTSecurity101/ICEBite)                  |
+| IoT-PT Core Board     | Hardware Lab (under development)                        | -                                                                        |
+| FT232H                | Alternative to BusPirate for UART/JTAG/SPI/I2C Debugging| [Buy Here](https://www.adafruit.com/product/2264)                        |
+| Digital Multimeter    | Measure voltage, continuity, resistance. Essential for probing IoT boards safely. | [Buy Here](https://www.fluke.com/en/product/electrical-testing/digital-multimeters/fluke-101) |
+| Hantek 6022BE (USB Scope) | Entry-level USB oscilloscope (~$70). Popular among hackers for UART/SPI/I²C signal debugging. | [Buy Here](https://amzn.to/3EzzXYi) |
 
 
 
